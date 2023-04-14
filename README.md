@@ -11,6 +11,12 @@ Once you have Python installed, you can install the `webshoter` package using pi
 ```sh
 pip install webshoter
 ```
+Or install manually:
+```sh
+1. git clone https://github.com/americo/webshoter
+2. cd webshoter
+3. python setup.py install
+```
 
 
 ## Usage

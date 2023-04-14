@@ -1,4 +1,4 @@
-# Screenshot Tool
+# WebShoter
 
 This tool takes screenshots of websites and saves them to a specified output directory in PNG format. It uses a headless browser to render the website and take the screenshot.
 

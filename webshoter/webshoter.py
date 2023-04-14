@@ -4,7 +4,7 @@ import os
 from utils import get_host_by_url, get_bgp_toolkit, download_screenshot, banner, generate_html_report
 from huepy import *
 
-def main():
+def __main__():
     print('\033c')
     print(banner())
     parser = argparse.ArgumentParser()
